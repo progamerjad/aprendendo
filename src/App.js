@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h1>vamosk~k/çl/ agora vai la</h1>
+          <h1>vamosk~k/çl/ agora vai agora sim foi gsssdfgdf la</h1>
           
         </a>
       </header>
