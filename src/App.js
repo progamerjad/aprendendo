@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h1>vamosk~k/çl/ agora vai agora sim foi gsssdfgdf la</h1>
-          
+          Learn React
         </a>
       </header>
     </div>
